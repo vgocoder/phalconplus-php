@@ -1,0 +1,14 @@
+{
+    "name": "vgocoder/phalconplus-php",
+    "description": "phalconplus with pure php",
+    "type": "library",
+    "require": {
+        "phalcon/cphalcon": "^3.1"
+    },
+    "authors": [
+        {
+            "name": "vgocoder",
+            "email": "twentychung@163.com"
+        }
+    ]
+}
